@@ -20,7 +20,9 @@ This project uses CSS 3D transforms, animations, gradients, and glowing effects 
 - CSS 3D Transforms
 - Gradient Effects
 
-- 🔗 Code: https://github.com/anandamitrup01-maker/Neon-_Infinity-_Portal/blob/main/index.html
+- 🔗 HTML Code: https://github.com/anandamitrup01-maker/Neon-_Infinity-_Portal/blob/main/index.html
+
+- 🔗 CSS Code: https://github.com/anandamitrup01-maker/Neon-_Infinity-_Portal/blob/main/style.css
 
 - 🌐 Live: https://anandamitrup01-maker.github.io/Neon-_Infinity-_Portal/
 
